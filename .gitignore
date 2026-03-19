@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE/editor
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: large model/data files
+*.h5
+*.pt
+*.pth
+*.pkl
+*.joblib
